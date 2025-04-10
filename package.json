@@ -15,11 +15,11 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "",
-  "author": "",
+  "name": "@prabhasranjan0/jobber-share",
+  "author": "Prabhas",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/prabhasranjan0/jobber-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
